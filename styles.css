@@ -5,7 +5,7 @@ body {
 }
 
 h1 {
-  font-size: 5rem;
+  font-size: 6rem;
   color: #DBEDF3;
   font-family: 'Cinzel';
   /* font-weight: ExtraBold 800 ; */
@@ -14,6 +14,8 @@ h1 {
   /* #DA0463;  */
   margin: 1% auto ;
   width: auto;
+  padding-top: 3%;
+  line-height: 1.5;
 
 }
 
@@ -51,7 +53,9 @@ background-image: url("images/tom4.png");
 }
 
 .set {
-  margin: 10% auto;
+  margin: 13% auto;
+  padding-left: 3%;
+  padding-right: 3%;
 
 }
 
@@ -104,6 +108,9 @@ background-image: url("images/tom4.png");
 }
 .drums{
 position: relative;
-top: 5px;
+bottom: 5px;
 
+}
+.social{
+  margin-bottom: 3%;
 }
