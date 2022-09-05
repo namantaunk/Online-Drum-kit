@@ -12,7 +12,8 @@ h1 {
   /* font-family: "Arvo", cursive; */
   text-shadow: 3px 0 #C06C84;
   /* #DA0463;  */
-  margin: 1% auto 0;
+  margin: 1% auto ;
+  width: auto;
 
 }
 
@@ -51,6 +52,7 @@ background-image: url("images/tom4.png");
 
 .set {
   margin: 10% auto;
+
 }
 
 .game-over {
